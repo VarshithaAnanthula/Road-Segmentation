@@ -13,6 +13,11 @@ tential applications in autonomous vehicle navigation and environmental monitori
  emphasizing its significance in automated road segmentation methods and geospatial
  analyses. The model achieved an accuracy of 99.01% in delineating road networks in
  remote sensing imagery.
- Keywords: Remote sensing image, Segmentation, Feature extraction, Autonomous ve
+
+ # Keywords
+Remote sensing image, Segmentation, Feature extraction, Autonomous ve
 hicle navigation, Augmentation techniques, Convolutional neural networks (CNNs),
  Classification algorithms
+
+# Dataset
+https://www.aicrowd.com/challenges/epfl-ml-road-segmentation/dataset_files
